@@ -1,0 +1,10 @@
+
+[server]
+headless = false
+enableCORS = true
+enableXsrfProtection = false
+port = 8501
+address = "localhost"
+
+[theme]
+base = "light"
